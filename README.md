@@ -1,5 +1,5 @@
 # meme-coin
-build a meme coin I will be creating Ran Coin 🦊 with a total supply of 1000 tokens and the the symbol RAN. I come up with a unique name for my coin, symbol, and total supply. Our contract will be simple, we will mint some tokens then be able to send them to our MetaMask users on the Rinkeby testnet.
+build a meme coin I am creating Ran Coin 🦊 with a total supply of 1000 tokens and the the symbol RAN. I come up with a unique name for my coin, symbol, and total supply. Our contract will be simple, we will mint some tokens then be able to send them to our MetaMask users on the Rinkeby testnet.
 
 
 
